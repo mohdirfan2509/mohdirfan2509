@@ -32,7 +32,7 @@
     </a>
     &nbsp;
     <a href="mailto:mohammadirfan25092004@gmail.com">
-      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" width="36" height="36" alt="Email logo" />
+      <img src="https://cdn.simpleicons.org/gmail/EA4335" width="36" height="36" alt="Email logo" />
     </a>
   </p>
 
@@ -89,7 +89,7 @@ I am currently a Freelance Software Engineer at **ASVDF Company, Hyderabad**, de
 
 ### AI Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=cursor" height="48" alt="Cursor AI" style="border-radius: 12px;" />
+  <a href="https://cursor.com"><img src="https://img.shields.io/badge/Cursor_AI-0B1220?style=for-the-badge&logo=cursor&logoColor=22D3EE" alt="Cursor AI" style="border-radius: 12px;" /></a>
   &nbsp;
   <img src="https://img.shields.io/badge/Claude_Code-0B1220?style=for-the-badge&logo=anthropic&logoColor=D4A27F" alt="Claude Code" style="border-radius: 12px;" />
   &nbsp;
