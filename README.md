@@ -24,7 +24,7 @@
 
   <br/>
 
-  <a href="https://mohdirfan2509.github.io/mohdirfan2509/assets/heatmap.html" title="Open interactive contribution heatmap">
+  <a href="https://raw.githubusercontent.com/mohdirfan2509/mohdirfan2509/main/assets/github-heatmap.svg" title="Open heatmap — hover any square for daily contribution count">
     <img src="./assets/github-heatmap.svg" alt="GitHub contribution heatmap" style="border-radius: 14px;" width="90%" />
   </a>
   <br/><br/>
