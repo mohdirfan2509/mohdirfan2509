@@ -22,23 +22,11 @@
     <a href="https://codeforces.com/profile/mohd_Irfan2004"><img src="https://img.shields.io/badge/Codeforces-0B1220?style=flat-square&logo=codeforces&logoColor=1F8ACB" alt="Codeforces" /></a>
   </p>
 
-  <p>
-    <a href="https://www.linkedin.com/in/mohammad-irfan-638a2b308/">
-      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in.svg" width="36" height="36" alt="LinkedIn logo" />
-    </a>
-    &nbsp;
-    <a href="https://github.com/mohdirfan2509">
-      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" width="36" height="36" alt="GitHub logo" />
-    </a>
-    &nbsp;
-    <a href="mailto:mohammadirfan25092004@gmail.com">
-      <img src="https://cdn.simpleicons.org/gmail/EA4335" width="36" height="36" alt="Email logo" />
-    </a>
-  </p>
-
   <br/>
 
-  <img src="https://ghchart.rshah.org/22D3EE/mohdirfan2509" alt="Mohammad Irfan GitHub contribution heatmap" style="border-radius: 14px;" width="90%" />
+  <a href="https://mohdirfan2509.github.io/mohdirfan2509/assets/heatmap.html" title="Open interactive contribution heatmap">
+    <img src="./assets/github-heatmap.svg" alt="GitHub contribution heatmap" style="border-radius: 14px;" width="90%" />
+  </a>
   <br/><br/>
   <img height="170" src="https://streak-stats.demolab.com/?user=mohdirfan2509&theme=radical&hide_border=true&background=0B1220&ring=22D3EE&fire=A78BFA&currStreakLabel=22D3EE&border_radius=14" alt="GitHub streak" style="border-radius: 14px;" />
 
@@ -88,15 +76,7 @@ I am currently a Freelance Software Engineer at **ASVDF Company, Hyderabad**, de
 <img src="https://skillicons.dev/icons?i=aws,docker,git,github,githubactions,maven,postman,vscode" alt="Cloud and Tools" style="border-radius: 12px;" />
 
 ### AI Tools
-<p>
-  <a href="https://cursor.com"><img src="https://img.shields.io/badge/Cursor_AI-0B1220?style=for-the-badge&logo=cursor&logoColor=22D3EE" alt="Cursor AI" style="border-radius: 12px;" /></a>
-  &nbsp;
-  <img src="https://img.shields.io/badge/Claude_Code-0B1220?style=for-the-badge&logo=anthropic&logoColor=D4A27F" alt="Claude Code" style="border-radius: 12px;" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/GitHub_Copilot-0B1220?style=for-the-badge&logo=githubcopilot&logoColor=E6EDF3" alt="GitHub Copilot" style="border-radius: 12px;" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Codex-0B1220?style=for-the-badge&logo=openai&logoColor=10A37F" alt="Codex" style="border-radius: 12px;" />
-</p>
+<img src="./assets/icons/ai-tools.svg" alt="Cursor, Claude, GitHub Copilot, Codex" style="border-radius: 12px;" />
 
 <br/>
 
