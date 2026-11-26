@@ -24,8 +24,8 @@
 
   <br/>
 
-  <a href="https://raw.githubusercontent.com/mohdirfan2509/mohdirfan2509/main/assets/github-heatmap.svg" title="Open heatmap — hover any square for daily contribution count">
-    <img src="./assets/github-heatmap.svg" alt="GitHub contribution heatmap" style="border-radius: 14px;" width="90%" />
+  <a href="https://raw.githubusercontent.com/mohdirfan2509/mohdirfan2509/main/assets/contribution-heatmap.svg" title="Open heatmap — hover any square for daily contribution count">
+    <img src="./assets/contribution-heatmap.svg" alt="GitHub contribution heatmap" style="border-radius: 14px;" width="90%" />
   </a>
   <br/><br/>
   <img height="170" src="https://streak-stats.demolab.com/?user=mohdirfan2509&theme=radical&hide_border=true&background=0B1220&ring=22D3EE&fire=A78BFA&currStreakLabel=22D3EE&border_radius=14" alt="GitHub streak" style="border-radius: 14px;" />
@@ -76,7 +76,7 @@ I am currently a Freelance Software Engineer at **ASVDF Company, Hyderabad**, de
 <img src="https://skillicons.dev/icons?i=aws,docker,git,github,githubactions,maven,postman,vscode" alt="Cloud and Tools" style="border-radius: 12px;" />
 
 ### AI Tools
-<img src="./assets/icons/ai-tools.svg" alt="Cursor, Claude, GitHub Copilot, Codex" style="border-radius: 12px;" />
+<img src="./assets/icons/ai-tools-v2.svg" alt="Cursor, Claude, GitHub Copilot, Codex" height="48" />
 
 <br/>
 
