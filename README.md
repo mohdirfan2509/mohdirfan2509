@@ -131,7 +131,7 @@ Cloud-native ordering and delivery system with API Gateway, database-per-service
 
 <div align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=mohdirfan2509&show_icons=true&theme=radical&hide_border=true&bg_color=0B1220&title_color=22D3EE&icon_color=A78BFA&text_color=E6EDF3&ring_color=22D3EE" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=mohdirfan2509&theme=radical&hide_border=true&background=0B1220&ring=22D3EE&fire=A78BFA&currStreakLabel=22D3EE" alt="GitHub streak" />
+  <img height="170" src="https://streak-stats.demolab.com/?user=mohdirfan2509&theme=radical&hide_border=true&background=0B1220&ring=22D3EE&fire=A78BFA&currStreakLabel=22D3EE" alt="GitHub streak" />
   <br/>
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohdirfan2509&layout=compact&theme=radical&hide_border=true&bg_color=0B1220&title_color=22D3EE&text_color=E6EDF3" alt="Top languages" />
   <br/>
