@@ -76,7 +76,7 @@ I am currently a Freelance Software Engineer at **ASVDF Company, Hyderabad**, de
 <img src="https://skillicons.dev/icons?i=aws,docker,git,github,githubactions,maven,postman,vscode" alt="Cloud and Tools" style="border-radius: 12px;" />
 
 ### AI Tools
-<img src="./assets/icons/ai-tools-v2.svg" alt="Cursor, Claude, GitHub Copilot, Codex" height="48" />
+<img src="./assets/icons/ai-tools-v3.svg" alt="Cursor, Claude, GitHub Copilot, Codex" height="48" />
 
 <br/>
 
